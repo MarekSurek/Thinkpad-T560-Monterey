@@ -78,6 +78,7 @@ The `YogaSMC.kext` is included in the EFI. To get the on-screen display (OSD) fo
 This EFI is provided "as is". I am not responsible for any damage caused to your device. Always make a backup of your data and current EFI before applying changes.
 
 ## 👏 Credits
+* [Apple] for macOS.
 * [Acidanthera](https://github.com/acidanthera) for OpenCore and Kexts.
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the extensive guides.
 * [OpenIntelWireless](https://github.com/OpenIntelWireless) for Intel WiFi drivers.
