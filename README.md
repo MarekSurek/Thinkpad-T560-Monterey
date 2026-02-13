@@ -7,6 +7,8 @@
 Complete OpenCore EFI configuration for **Lenovo ThinkPad T560** running macOS Monterey.  
 This build focuses on system stability, power management, and native-like experience.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d501b4d-c4d7-4fe3-aebf-984a5022ec64" />
+
 ---
 
 ## 💻 Hardware Specification
