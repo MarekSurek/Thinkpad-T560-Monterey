@@ -72,6 +72,9 @@ To boot successfully, ensure your BIOS is configured as follows:
 The `YogaSMC.kext` is included in the EFI. To get the on-screen display (OSD) for volume/brightness and full function key support:
 * Download and install the **YogaSMC App** (Settings pane) inside macOS.
 
+### 3. HeliPort
+For WiFi, install the [HeliPort app](https://github.com/OpenIntelWireless/HeliPort) and set it to **Launch at Login**.
+
 ---
 
 ## ⚠️ Disclaimer
